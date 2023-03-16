@@ -1,0 +1,10 @@
+*{margin: 0px; box-sizing: border-box;}
+body{font-size: 14px; font-family: arial;}
+
+:root{--mcolor:white;}
+
+
+.container{max-width:900px;  margin:0px auto;}
+.d-flex{display: flex;}
+.space-between{justify-content: space-between; align-items: center;}
+a{text-decoration: none!important;}
